@@ -8,13 +8,35 @@ I'm a systems engineering student, I'm currently seeking to expand my knowledge 
 <h2>My Skills Incluede</h2>
 
 __Programming Languages__
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,python,php,typescript" />
+  </a>
+</p>
+
+__FrameWorks__
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,angular" />
+  </a>
+</p>
+
+__Data Bases__
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  </a>
+</p>
+
+__Tools__
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,postman,docker,maven" />
+  </a>
+</p>
+
 
 
