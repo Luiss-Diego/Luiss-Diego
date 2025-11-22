@@ -8,7 +8,7 @@ I'm a systems engineering student, I'm currently seeking to expand my knowledge 
 <h2>My Skills Incluede</h2>
 
 __Programming Languages__
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,javascript,python,php,typescript" />
   </a>
@@ -16,7 +16,7 @@ __Programming Languages__
 
 __FrameWorks__
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,angular" />
   </a>
@@ -24,7 +24,7 @@ __FrameWorks__
 
 __Data Bases__
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
   </a>
@@ -32,7 +32,7 @@ __Data Bases__
 
 __Tools__
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,postman,docker,maven" />
   </a>
