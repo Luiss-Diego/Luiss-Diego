@@ -34,7 +34,7 @@ __Tools__
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,postman,docker,maven" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,bash,postman,docker,maven" />
   </a>
 </p>
 
