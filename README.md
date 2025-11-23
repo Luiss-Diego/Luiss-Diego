@@ -26,7 +26,7 @@ __Data Bases__
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb" /><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="48"/>
   </a>
 </p>
 
